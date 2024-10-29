@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projek\\learn-dotnet\\api\\api.csproj": {}
+    "/Volumes/SSDExternal/Project/OKGasProject/learn-dotnet/api/api.csproj": {}
   },
   "projects": {
-    "D:\\Projek\\learn-dotnet\\api\\api.csproj": {
+    "/Volumes/SSDExternal/Project/OKGasProject/learn-dotnet/api/api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projek\\learn-dotnet\\api\\api.csproj",
+        "projectUniqueName": "/Volumes/SSDExternal/Project/OKGasProject/learn-dotnet/api/api.csproj",
         "projectName": "api",
-        "projectPath": "D:\\Projek\\learn-dotnet\\api\\api.csproj",
-        "packagesPath": "C:\\Users\\loven\\.nuget\\packages\\",
-        "outputPath": "D:\\Projek\\learn-dotnet\\api\\obj\\",
+        "projectPath": "/Volumes/SSDExternal/Project/OKGasProject/learn-dotnet/api/api.csproj",
+        "packagesPath": "/Users/nandy23/.nuget/packages/",
+        "outputPath": "/Volumes/SSDExternal/Project/OKGasProject/learn-dotnet/api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\loven\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/nandy23/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -94,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
