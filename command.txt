@@ -5,3 +5,13 @@ dotnet watch run
 3. run migration
 dotnet ef migrations add init
 dotnet ef database update
+
+
+Flow System : 
+1. After create migrations, create Models
+2. Create Interface
+3. Create Repository
+4. Add Interface and Repository in Program.cs
+5. Create Controller
+6. Create DTO
+7. Create Mappers
